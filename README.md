@@ -1,5 +1,4 @@
-# Online Shoping project -php
-
+# online marketplace project -php
 Admin Password- 
 username - admin
 Password - admin
